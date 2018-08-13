@@ -1,6 +1,6 @@
 OpenGL-Lighted-Cube-Android
 ===========================
-This is **compiled** version of the version made by Anand Muralidhar.
+This is **compiled** version of the version made by *Anand Muralidhar*.
 
 There is a small improvement to Anand's version - **Lighted Cube**.                              
 Added:
@@ -22,6 +22,9 @@ In this project, we explore an important concept in OpenGL ES; the **Model**-**V
 
 A blog describing this project:
 http://www.anandmuralidhar.com/blog/android/mvp-glm-touch
+
+Original GitHub by Anand Muralidhar:
+https://github.com/anandmuralidhar24/CubeAndroid
 
 License
 -------
