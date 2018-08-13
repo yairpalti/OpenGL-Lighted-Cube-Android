@@ -1,7 +1,8 @@
 OpenGL-Lighted-Cube-Android
 ===========================
 This is compiled version of the version made by Anand Muralidhar.
-There is a small improvement to Anand's version - *lighted cube*.
+
+There is a small improvement to Anand's version - **Lighted Cube**.                              
 Added:
 * Light direction
 * Cube normals
